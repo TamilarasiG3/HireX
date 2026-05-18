@@ -196,4 +196,14 @@ All in a single structured daily preparation system.
 MONGO_URI=your_mongodb_connection
 JWT_SECRET=your_secret_key
 OPENAI_API_KEY=your_openai_key
-PORT=5000
+PORT=5000  
+---
+## 🚀 Deployment
+Layer	Platform
+Frontend	Vercel
+Backend	Node.js
+Database	MongoDB Atlas
+---
+## 👨‍💻 Author
+
+Tamilarasi G
