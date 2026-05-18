@@ -1,18 +1,7 @@
 <div align="center">
 
-# 🚀 HireX  
-### AI Career Intelligence Platform  
-
-<img src="https://img.shields.io/badge/AI%20Powered-Career%20Platform-6C63FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Placement%20Prep-Ready-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/HireX-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
-</div>
-
+# AI Career Intelligence Platform
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0f0f,100:4facfe&height=250&section=header&text=HireX%20🚀&fontSize=60&fontColor=ffffff"/> </p> <p align="center"> <b>AI-powered platform for coding, aptitude & interview preparation</b> </p>
 ---
 
 ## 📌 About HireX
