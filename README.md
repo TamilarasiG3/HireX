@@ -6,3 +6,45 @@
   <b>AI Career Intelligence Platform</b><br/>
   Placement Preparation • Coding • Aptitude • Mock Interviews • AI Mentor
 </p>
+
+
+🚀 HireX — AI Career Intelligence Platform
+
+AI-powered placement preparation platform for coding, aptitude, and interviews.
+
+🌐 Live Project
+
+⚙️ Tech Stack
+⚡ Frontend
+
+
+
+
+
+
+
+
+⚙️ Backend
+
+
+
+
+
+
+
+
+🔐 Auth & Security
+
+
+
+
+
+
+🤖 AI & Tools
+
+
+
+
+
+
+🚀 Deployment
