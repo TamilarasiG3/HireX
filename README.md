@@ -65,15 +65,6 @@ All in a single structured daily preparation system.
 
 ---
 
-### 🔐 Authentication & Security
-<p>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/bcrypt-003A70?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CORS-enabled-2E8B57?style=for-the-badge" />
-</p>
-
----
-
 ### 🤖 AI & Tools
 <p>
 <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white" />
